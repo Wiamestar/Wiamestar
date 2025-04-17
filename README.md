@@ -39,8 +39,13 @@ _(Et d’autres projets embarqués arrivent très bientôt…)_
 ## 🧠 Compétences
 
 Langages        : C / C++ | C# | Python | SQL | Java | Embedded C/C++
+
 Modélisation    : MATLAB, Simulink, Simscape
+
 Outils & IDE    : KiCad, Proteus, Quartus, LabVIEW, Waveforms, Linux
+
 Matériel        : STM32, Arduino, Raspberry Pi, FPGA
+
 Data & analyse  : SQL Server, Power BI
+
 Soft skills     : Autonomie, curiosité, rigueur, créativité, esprit critique
